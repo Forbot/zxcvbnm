@@ -2,7 +2,7 @@ body {
   width: 100vw;
   height: 100vh;
   padding: 1rem;
-  background-image: url(dbdfdc8f51630ddfbb3f.jpg);
+  background-image: url(ed50eb2804a2435cb227.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -13,7 +13,7 @@ body {
 
 @media only screen and (max-width: 1200px) {
   body {
-    background-image: url(01e008fb4d3f3df23e7d.jpg);
+    background-image: url(ed50eb2804a2435cb227.jpg);
   }
 }
 
